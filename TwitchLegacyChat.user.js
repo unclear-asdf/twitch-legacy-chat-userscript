@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitch Legacy Chat
-// @version      0.6.0b
+// @version      0.6.0c
 // @description  Replaces the regular, new Twitch chat with the Legacy Popout in an iframe. Restores the functionality of FrankerFaceZ and BTTV. Based on this Chrome extension: https://chrome.google.com/webstore/detail/twitch-legacy-chat/nonbdfmekapigdafeajhmhbkbnfibfhg
 // @grant        none
 // @include https://*.twitch.tv/*
@@ -9,7 +9,7 @@
 // @include http://twitch.tv/*
 // @exclude http://api.twitch.tv/*
 // @exclude https://api.twitch.tv/*
-// @require http://code.jquery.com/jquery-latest.js
+// @require https://code.jquery.com/jquery-2.2.4.min.js
 // @require http://code.jquery.com/ui/1.12.0/jquery-ui.min.js
 // @run-at       document-start
 // ==/UserScript==
